@@ -1,1 +1,2 @@
 # odin-recipes
+"HTML recipes project" for Odin Project foundations course. The purpose of this assignment is to put the skills learned with Git, Github, and HTML to the test with a small recipe website.   
